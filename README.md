@@ -1,4 +1,4 @@
 # CS 61A: Structure and Interpretation of Computer Programs
-Fall 2018 <br>
+Spring 2020 <br>
 Instructor: John DeNero <br>
-[https://inst.eecs.berkeley.edu/~cs61a/fa18/](https://inst.eecs.berkeley.edu/~cs61a/fa18/)
+[https://cs61a.org/](https://cs61a.org/)
